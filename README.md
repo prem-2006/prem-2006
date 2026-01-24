@@ -25,11 +25,12 @@
 
 ## 🦇 About Me
 
-> I am a Full Stack Developer by day, and an AI/ML enthusiast by night. Specialized in building robust applications and analyzing complex data structures.
+> I am a versatile **Full Stack Developer** and **AI/ML Enthusiast** with a passion for building scalable, high-performance applications. My expertise spans across the entire development lifecycle, from designing intuitive user interfaces to architecting robust backend systems and integrating intelligent machine learning models.
 
 - 🔭 I’m currently working on **Advanced AI/ML Projects**.
-- 🌱 I’m currently learning **Rust & Go**.
-- 💬 Ask me about **Java, Python, Javascript**.
+- 💻 **Core Competencies**: I possess strong proficiency in **Rust** and **Go**, leveraging them for systems programming and high-concurrency backend services.
+- 🚀 **Full Stack Expertise**: Deeply experienced in modern web development using **React, Next.js, and Node.js**, creating seamless and dynamic web experiences.
+- 🧠 **Data Science & AI**: Skilled in Python ecosystem (Pandas, NumPy, PyTorch/TensorFlow) for extracting insights and building predictive models.
 - ⚡ Fun fact: **I am Vengeance.**
 
 <br />
@@ -53,16 +54,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=black" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black" alt="CSS" />
   </p>
-</div>
-
-<br />
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya200247&show_icons=true&theme=gotham&hide_border=true&bg_color=000000" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya200247&layout=compact&theme=gotham&hide_border=true&bg_color=000000" alt="Top Languages" />
 </div>
 
 <br />
