@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="100%" alt="Batman Signal" />
+  <img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="400" alt="Batman Signal" />
 
-  <h1 align="center">Aditya Kumar Thakur</h1>
-  
-  <h3 align="center">
-    Full Stack Developer | AI/ML | Data Science
-  </h3>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Aditya+Kumar+Thakur;Full+Stack+Developer+%7C+AI%2FML+%7C+Data+Science;I+am+Vengeance." alt="Typing SVG" />
+    </a>
+  </div>
   
   <p align="center">
     "It's not who I am underneath, but what I do that defines me."
@@ -54,6 +54,30 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=black" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black" alt="CSS" />
   </p>
+</div>
+
+<br />
+
+## 🦇 Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Aditya200247/Randomness-simulator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Randomness-simulator&theme=gotham&hide_border=true&bg_color=000000" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Aditya200247/Aditya200247">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Aditya200247&theme=gotham&hide_border=true&bg_color=000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <a href="https://github.com/Aditya200247?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
 </div>
 
 <br />
