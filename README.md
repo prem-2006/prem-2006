@@ -64,13 +64,37 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
+        <a href="https://github.com/Aditya200247/Algo-Trading">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Algo-Trading&theme=gotham&hide_border=true&bg_color=000000" />
+        </a>
+      </td>
+      <td width="50%" align="center">
         <a href="https://github.com/Aditya200247/Randomness-simulator">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Randomness-simulator&theme=gotham&hide_border=true&bg_color=000000" />
         </a>
       </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Aditya200247/Hand-visual-control">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Hand-visual-control&theme=gotham&hide_border=true&bg_color=000000" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Aditya200247/Ai-workshop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Ai-workshop&theme=gotham&hide_border=true&bg_color=000000" />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Aditya200247/Aditya200247">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Aditya200247&theme=gotham&hide_border=true&bg_color=000000" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Aditya200247/Study_Space_Main_Page">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya200247&repo=Study_Space_Main_Page&theme=gotham&hide_border=true&bg_color=000000" />
         </a>
       </td>
     </tr>
