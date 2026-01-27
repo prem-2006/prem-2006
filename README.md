@@ -1,111 +1,233 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Hacker Terminal" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+There,+I+am+Prem+Singh;Full+Stack+Developer+%7C+AI%2FML+%7C+Data+Science;Hacking+the+Matrix." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=🚀+Innovation+Through+Code;🤖+AI%2FML+Engineer+%26+Full+Stack+Developer;🌟+Building+Tomorrow's+Technology+Today;💡+Transforming+Ideas+Into+Reality" alt="Typing SVG" />
     </a>
   </div>
   
   <p align="center">
-    "The best way to predict the future is to invent it."
+    <img src="https://komarev.com/ghpvc/?username=prem-2006&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/prem-2006?style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Followers" />
   </p>
   
   <p align="center">
-    <a href="mailto:premsingh2006@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-premsingh2006%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email" />
+    💫 <em>"Code is poetry written in logic, and I'm here to compose symphonies."</em> 💫
+  </p>
+  
+  <div align="center">
+    <a href="mailto:premsingh12198@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email-premsingh12198%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/prem-singh-b088b7381">
-      <img src="https://img.shields.io/badge/LinkedIn-Prem%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/prem-singh-5b2709379">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
     </a>
+    <a href="https://github.com/prem-2006">
+      <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
+    </a>
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+class PremSingh {
+  constructor() {
+    this.name = "Prem Singh";
+    this.role = "Full Stack Developer & AI Engineer";
+    this.location = "India 🇮🇳";
+    this.passion = "Building the future with code";
+  }
+
+  getCurrentFocus() {
+    return [
+      "🤖 Advanced AI/ML Solutions",
+      "🚀 Scalable Web Applications", 
+      "⚡ High-Performance Systems",
+      "🔬 Research & Innovation"
+    ];
+  }
+
+  getSkills() {
+    return {
+      languages: ["Rust", "Go", "Python", "JavaScript", "TypeScript"],
+      frontend: ["React", "Next.js", "Vue.js", "Svelte"],
+      backend: ["Node.js", "FastAPI", "Express", "Gin"],
+      ai_ml: ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV"],
+      databases: ["PostgreSQL", "MongoDB", "Redis", "Neo4j"],
+      cloud: ["AWS", "Docker", "Kubernetes", "Terraform"]
+    };
+  }
+
+  getPhilosophy() {
+    return "Code with purpose, innovate with passion, and never stop learning! 🚀";
+  }
+}
+
+const developer = new PremSingh();
+```
+
+### 🎯 What Drives Me
+- 🔥 **Innovation First**: Always pushing boundaries and exploring cutting-edge technologies
+- 🌱 **Continuous Learning**: Staying ahead of the curve in the rapidly evolving tech landscape  
+- 🤝 **Collaboration**: Building amazing things with incredible people
+- 🎨 **Clean Code**: Writing elegant, maintainable, and scalable solutions
+- 🌍 **Impact**: Creating technology that makes a real difference in people's lives
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  <h2>🚀 Tech Arsenal</h2>
+</div>
+
+<div align="center">
+  
+  ### 💻 Programming Languages
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=rust,go,python,javascript,typescript,java,cpp&theme=dark" />
+  </p>
+  
+  ### 🎨 Frontend Technologies  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,html,css,tailwind,sass&theme=dark" />
+  </p>
+  
+  ### ⚙️ Backend & Infrastructure
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gin,docker,kubernetes,aws,terraform&theme=dark" />
+  </p>
+  
+  ### 🤖 AI/ML & Data Science
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" />
+  </p>
+  
+  ### 🗄️ Databases & Tools
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,neo4j,git,github,vscode,linux&theme=dark" />
   </p>
 </div>
 
 <br />
 
-## 💻 About Me
-
-> I am a versatile **Full Stack Developer** and **AI/ML Enthusiast** with a passion for building scalable, high-performance applications. My expertise spans across the entire development lifecycle, from designing intuitive user interfaces to architecting robust backend systems and integrating intelligent machine learning models.
-
-- 🔭 I’m currently working on **Advanced AI/ML Projects**.
-- 💻 **Core Competencies**: I possess strong proficiency in **Rust** and **Go**, leveraging them for systems programming and high-concurrency backend services.
-- 🚀 **Full Stack Expertise**: Deeply experienced in modern web development using **React, Next.js, and Node.js**, creating seamless and dynamic web experiences.
-- 🧠 **Data Science & AI**: Skilled in Python ecosystem (Pandas, NumPy, PyTorch/TensorFlow) for extracting insights and building predictive models.
-- ⚡ Fun fact: **Hacking the Matrix.**
-
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black" alt="Python" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" alt="C++" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="Go" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=black" alt="Rust" />
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="React Native" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=black" alt="Node.js" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=black" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black" alt="CSS" />
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-2006&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-2006&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 </div>
 
 <br />
 
-## 💻 Projects
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  
+  <h2>🎯 Featured Projects</h2>
+</div>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/prem-2006/Algo-Trading">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Algo-Trading&theme=gotham&hide_border=true&bg_color=000000" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Algo-Trading&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
+        <p><strong>🤖 Algorithmic Trading System</strong></p>
+        <p>Advanced AI-powered trading algorithms with real-time market analysis</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/prem-2006/Randomness-simulator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Randomness-simulator&theme=gotham&hide_border=true&bg_color=000000" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Randomness-simulator&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
+        <p><strong>🎲 Randomness Simulator</strong></p>
+        <p>Mathematical modeling and simulation of random processes</p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/prem-2006/Hand-visual-control">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Hand-visual-control&theme=gotham&hide_border=true&bg_color=000000" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Hand-visual-control&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
+        <p><strong>👋 Hand Gesture Control</strong></p>
+        <p>Computer vision system for gesture-based interface control</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/prem-2006/Ai-workshop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Ai-workshop&theme=gotham&hide_border=true&bg_color=000000" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Ai-workshop&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/prem-2006">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=prem-2006&theme=gotham&hide_border=true&bg_color=000000" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/Study_Space_Main_Page">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Study_Space_Main_Page&theme=gotham&hide_border=true&bg_color=000000" />
-        </a>
+        <p><strong>🧠 AI Workshop</strong></p>
+        <p>Educational platform for AI/ML concepts and implementations</p>
       </td>
     </tr>
   </table>
+  
   <a href="https://github.com/prem-2006?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="View All Projects" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Hacker Terminal Footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  
+  <h2>🤝 Let's Connect & Collaborate</h2>
+</div>
+
+<div align="center">
+  <p>
+    <strong>Ready to build something amazing together? Let's turn ideas into reality!</strong>
+  </p>
+  
+  <p align="center">
+    <a href="mailto:premsingh12198@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Drop_a_Message-premsingh12198%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/prem-singh-5b2709379">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Network-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/prem-2006">
+      <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Journey-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=prem-2006&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Profile Views" />
+  </p>
+  
+  <p>
+    <em>⭐ From <a href="https://github.com/prem-2006">Prem Singh</a> - Building the future, one commit at a time! ⭐</em>
+  </p>
 </div>
