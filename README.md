@@ -39,49 +39,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-class PremSingh {
-  constructor() {
-    this.name = "Prem Singh";
-    this.role = "Full Stack Developer & AI Engineer";
-    this.location = "India 🇮🇳";
-    this.passion = "Building the future with code";
-  }
+<div align="left">
+  
+**👨‍💻 Full Stack Developer & AI Engineer**  
+**📍 Location:** India 🇮🇳  
+**💡 Passion:** Building the future with code  
 
-  getCurrentFocus() {
-    return [
-      "🤖 Advanced AI/ML Solutions",
-      "🚀 Scalable Web Applications", 
-      "⚡ High-Performance Systems",
-      "🔬 Research & Innovation"
-    ];
-  }
+### 🎯 Current Focus
+- 🤖 **Advanced AI/ML Solutions** - Creating intelligent systems that solve real-world problems
+- 🚀 **Scalable Web Applications** - Building robust, high-performance web platforms
+- ⚡ **High-Performance Systems** - Optimizing for speed, efficiency, and reliability
+- 🔬 **Research & Innovation** - Exploring cutting-edge technologies and methodologies
 
-  getSkills() {
-    return {
-      languages: ["Rust", "Go", "Python", "JavaScript", "TypeScript"],
-      frontend: ["React", "Next.js", "Vue.js", "Svelte"],
-      backend: ["Node.js", "FastAPI", "Express", "Gin"],
-      ai_ml: ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV"],
-      databases: ["PostgreSQL", "MongoDB", "Redis", "Neo4j"],
-      cloud: ["AWS", "Docker", "Kubernetes", "Terraform"]
-    };
-  }
-
-  getPhilosophy() {
-    return "Code with purpose, innovate with passion, and never stop learning! 🚀";
-  }
-}
-
-const developer = new PremSingh();
-```
-
-### 🎯 What Drives Me
+### 🌟 What Drives Me
 - 🔥 **Innovation First**: Always pushing boundaries and exploring cutting-edge technologies
 - 🌱 **Continuous Learning**: Staying ahead of the curve in the rapidly evolving tech landscape  
 - 🤝 **Collaboration**: Building amazing things with incredible people
 - 🎨 **Clean Code**: Writing elegant, maintainable, and scalable solutions
 - 🌍 **Impact**: Creating technology that makes a real difference in people's lives
+
+### 💭 Philosophy
+*"Code with purpose, innovate with passion, and never stop learning!"* 🚀
+
+</div>
 
 <br />
 
