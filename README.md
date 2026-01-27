@@ -8,11 +8,6 @@
   </div>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prem-2006&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/prem-2006?style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Followers" />
-  </p>
-  
-  <p align="center">
     💫 <em>"Code is poetry written in logic, and I'm here to compose symphonies."</em> 💫
   </p>
   
@@ -80,12 +75,12 @@
   
   ### 🎨 Frontend Technologies  
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,html,css,tailwind,sass&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind&theme=dark" />
   </p>
   
   ### ⚙️ Backend & Infrastructure
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gin,docker,kubernetes,aws,terraform&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,kubernetes&theme=dark" />
   </p>
   
   ### 🤖 AI/ML & Data Science
@@ -202,10 +197,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=prem-2006&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Profile Views" />
-  </p>
   
   <p>
     <em>⭐ From <a href="https://github.com/prem-2006">Prem Singh</a> - Building the future, one commit at a time! ⭐</em>
