@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Jalwa%20Hai%20Hamara&descSize=20&descAlignY=52" />
   
   <div align="center">
     <a href="https://git.io/typing-svg">
@@ -103,12 +103,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-2006&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-2006&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> -->
 </div>
 
 <div align="center">
@@ -127,27 +127,27 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/Algo-Trading">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Algo-Trading&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/prem-2006/luckycard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=luckycard&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
-        <p><strong>🤖 Algorithmic Trading System</strong></p>
-        <p>Advanced AI-powered trading algorithms with real-time market analysis</p>
+        <p><strong>🎰 Lucky Card</strong></p>
+        <p>Interactive card game with dynamic gameplay mechanics</p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/Randomness-simulator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Randomness-simulator&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/prem-2006/Terminal-Notes-Vault-with-Tagging">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Terminal-Notes-Vault-with-Tagging&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
-        <p><strong>🎲 Randomness Simulator</strong></p>
-        <p>Mathematical modeling and simulation of random processes</p>
+        <p><strong>📝 Terminal Notes Vault</strong></p>
+        <p>Command-line note management system with advanced tagging</p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/Hand-visual-control">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Hand-visual-control&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/prem-2006/Techshop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Techshop&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
-        <p><strong>👋 Hand Gesture Control</strong></p>
-        <p>Computer vision system for gesture-based interface control</p>
+        <p><strong>🛒 TechShop</strong></p>
+        <p>Modern e-commerce platform for technology products</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/prem-2006/Ai-workshop">
@@ -167,7 +167,7 @@
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"> -->
   
   <h2>🤝 Let's Connect & Collaborate</h2>
 </div>
