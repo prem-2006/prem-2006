@@ -46,15 +46,11 @@
 - ⚡ **High-Performance Systems** - Optimizing for speed, efficiency, and reliability
 - 🔬 **Research & Innovation** - Exploring cutting-edge technologies and methodologies
 
-### 🌟 What Drives Me
-- 🔥 **Innovation First**: Always pushing boundaries and exploring cutting-edge technologies
-- 🌱 **Continuous Learning**: Staying ahead of the curve in the rapidly evolving tech landscape  
-- 🤝 **Collaboration**: Building amazing things with incredible people
-- 🎨 **Clean Code**: Writing elegant, maintainable, and scalable solutions
-- 🌍 **Impact**: Creating technology that makes a real difference in people's lives
-
 ### 💭 Philosophy
 *"Code with purpose, innovate with passion, and never stop learning!"* 🚀
+
+### *Coding toh sab karte hai thats why While doing coding just remember Jalwa hona chaiyea*
+
 
 </div>
 
@@ -98,18 +94,13 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
   <h2>📊 GitHub Analytics</h2>
 </div>
 
 <div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-2006&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> -->
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-2006&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
@@ -150,8 +141,8 @@
         <p>Modern e-commerce platform for technology products</p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/Ai-workshop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=Ai-workshop&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/prem-2006/CS2-HandGesture-control.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=CS2-HandGesture-control&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>🧠 AI Workshop</strong></p>
         <p>Educational platform for AI/ML concepts and implementations</p>
