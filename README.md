@@ -118,7 +118,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=luckycard&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>🎰 Lucky Card</strong></p>
-        <p>Interactive card game with dynamic gameplay mechanics</p>
+        <p>An engaging card game featuring interactive gameplay with dynamic mechanics, strategic challenges, and immersive user experience</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/prem-2006/Terminal-Notes-Vault-with-Tagging">
@@ -137,8 +137,8 @@
         <p>Modern e-commerce platform for technology products</p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/prem-2006/CS2-HandGesture-control.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=CS2-HandGesture-control&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/prem-2006/CS2-Handgesture-control">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=CS2-Handgesture-control&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
         <p><strong>🧠 CS2 HandGesture Control</strong></p>
         <p>A Tool which uses hand gesture to control the mouse pointer.</p>
