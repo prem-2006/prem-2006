@@ -140,8 +140,8 @@
         <a href="https://github.com/prem-2006/CS2-HandGesture-control.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-2006&repo=CS2-HandGesture-control&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
-        <p><strong>🧠 AI Workshop</strong></p>
-        <p>Educational platform for AI/ML concepts and implementations</p>
+        <p><strong>🧠 CS2 HandGesture Control</strong></p>
+        <p>A Tool which uses hand gesture to control the mouse pointer.</p>
       </td>
     </tr>
   </table>
