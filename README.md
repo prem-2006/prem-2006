@@ -102,10 +102,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-2006&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
-</div>
-
 <br />
 
 <div align="center">
