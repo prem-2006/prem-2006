@@ -86,7 +86,7 @@
   
   ### 🗄️ Databases & Tools
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,neo4j,git,github,vscode,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode,linux&theme=dark" />
   </p>
 </div>
 
