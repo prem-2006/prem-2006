@@ -49,7 +49,7 @@
 ### 💭 Philosophy
 *"Code with purpose, innovate with passion, and never stop learning!"* 🚀
 
-### *Coding toh sab karte hai thats why While doing coding just remember Jalwa hona chaiyea*
+### *Everyone codes — but when you code, make sure there’s Jalwa.*
 
 
 </div>
