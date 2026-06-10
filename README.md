@@ -64,12 +64,12 @@
 
 ### 🔗 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,go,python,javascript,typescript,java,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
 </p>
 
 ### AI/ML & Data Science
@@ -79,7 +79,7 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postgresql,mongodb,redis&theme=dark" />
 </p>
 
 <br />
