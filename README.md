@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./github.jpeg" width="100%" alt="Banner" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Jalwa%20Hai%20Hamara&descSize=20&descAlignY=52" />
   
   <div align="center">
