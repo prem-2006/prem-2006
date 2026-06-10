@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Jalwa%20Hai%20Hamara&descSize=20&descAlignY=52" />
+  
+  # Prem Singh
+  **✨ Jalwa Hai Hamara ✨**
   
   <div align="center">
     <a href="https://git.io/typing-svg">
