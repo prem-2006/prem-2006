@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  # Prem Singh
+  <h1><b>Prem Singh</b></h1>
   **✨ Jalwa Hai Hamara ✨**
   
   **Full Stack Developer | AI/ML Engineer**
