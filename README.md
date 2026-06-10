@@ -58,37 +58,29 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  <h2>🚀 Tech Arsenal</h2>
 </div>
 
-<div align="center">
-  
-  ### 💻 Programming Languages
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,go,python,javascript,typescript,java,cpp&theme=dark" />
-  </p>
-  
-  ### 🎨 Frontend Technologies  
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind&theme=dark" />
-  </p>
-  
-  ### ⚙️ Backend & Infrastructure
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,kubernetes&theme=dark" />
-  </p>
-  
-  ### 🤖 AI/ML & Data Science
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" />
-  </p>
-  
-  ### 🗄️ Databases & Tools
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode,linux&theme=dark" />
-  </p>
-</div>
+## Tech Stack
+
+### 🔗 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go,python,javascript,typescript,java,cpp&theme=dark" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,tailwind&theme=dark" />
+</p>
+
+### AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postgresql,mongodb,redis&theme=dark" />
+</p>
 
 <br />
 
