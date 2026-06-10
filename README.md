@@ -7,25 +7,16 @@
   # Prem Singh
   **✨ Jalwa Hai Hamara ✨**
   
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=🚀+Innovation+Through+Code;🤖+AI%2FML+Engineer+%26+Full+Stack+Developer;🌟+Building+Tomorrow's+Technology+Today;💡+Transforming+Ideas+Into+Reality" alt="Typing SVG" />
-    </a>
-  </div>
+  **Full Stack Developer | AI/ML Engineer**
   
-  <p align="center">
-    💫 <em>"Code is poetry written in logic, and I'm here to compose symphonies."</em> 💫
-  </p>
+  <br />
   
   <div align="center">
-    <a href="mailto:premsingh12198@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-premsingh12198%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
-    </a>
     <a href="https://www.linkedin.com/in/prem-singh-5b2709379">
-      <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/prem-2006">
-      <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
+    <a href="https://x.com/prem_singh">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
   </div>
 </div>
@@ -38,27 +29,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left">
-  
-**👨‍💻 Full Stack Developer & AI Engineer**  
-**📍 Location:** India 🇮🇳  
-**💡 Passion:** Building the future with code  
-
-### 🎯 Current Focus
-- 🤖 **Advanced AI/ML Solutions** - Creating intelligent systems that solve real-world problems
-- 🚀 **Scalable Web Applications** - Building robust, high-performance web platforms
-- ⚡ **High-Performance Systems** - Optimizing for speed, efficiency, and reliability
-- 🔬 **Research & Innovation** - Exploring cutting-edge technologies and methodologies
-
-### 💭 Philosophy
-*"Code with purpose, innovate with passion, and never stop learning!"* 🚀
-
-### *Everyone codes — but when you code, make sure there’s Jalwa.*
-
-
-</div>
+I am a Full Stack Developer and AI/ML Engineer passionate about building intelligent systems and robust web applications. I love solving complex problems, exploring cutting-edge technologies, and creating scalable solutions that make a real impact.
 
 <br />
 
