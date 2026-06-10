@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <h1><b>Prem Singh</b></h1>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Prem%20Singh&fontSize=65&fontAlignY=60" alt="Prem Singh" height="80" />
   **✨ Jalwa Hai Hamara ✨**
   
   **Full Stack Developer | AI/ML Engineer**
@@ -17,6 +17,9 @@
     </a>
     <a href="https://x.com/prem_singh_20">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://leetcode.com/u/Prem-2006/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
     </a>
   </div>
 </div>
