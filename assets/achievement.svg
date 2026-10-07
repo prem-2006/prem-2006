@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="130" viewBox="0 0 780 130" fill="none" xml:space="preserve" role="img" aria-label="Achievement unlocked: You found Prem&#x27;s profile (+50 G)">
+<title>Achievement unlocked: You found Prem's profile (+50 G)</title>
+<defs>
+<linearGradient id="xg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5fd35f"/><stop offset="1" stop-color="#107c10"/></linearGradient>
+<linearGradient id="pill" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#232838"/><stop offset="1" stop-color="#151926"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="pc"><rect x="24" y="19" height="92" rx="46" width="750">
+  <animate attributeName="width" dur="9.0s" repeatCount="indefinite" calcMode="spline"
+    keyTimes="0;0.0500;0.1167;0.8556;0.9167;1" values="92;92;750;750;92;92"
+    keySplines=".2 .8 .2 1;.2 .8 .2 1;0 0 1 1;.6 0 .8 .2;0 0 1 1"/></rect></clipPath>
+</defs>
+<style>
+text{white-space:pre}
+.sans{font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace}
+.b{font-weight:700}
+.blink{animation:blink 1.06s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+
+<g clip-path="url(#pc)">
+  <rect x="24" y="19" width="750" height="92" rx="46" fill="url(#pill)" stroke="#39405a"/>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" keyTimes="0;0.1000;0.1389;0.8333;0.8611;1" values="0;0;1;1;0;0"/>
+    <text class="sans b" x="142" y="54" font-size="15" letter-spacing="2.5" fill="#9ece6a">ACHIEVEMENT UNLOCKED</text>
+    <text class="sans b" x="142" y="88" font-size="27" fill="#e6edf3">You found Prem's profile</text>
+    <text class="sans b" x="740" y="88" font-size="27" fill="#e0af68" text-anchor="end">+50 G</text>
+  </g>
+  <rect x="-200" y="0" width="160" height="130" fill="url(#shine)" transform="skewX(-20)">
+    <animate attributeName="x" dur="9.0s" repeatCount="indefinite" keyTimes="0;0.1444;0.2556;1" values="-200;-200;880;880"/>
+  </rect>
+</g>
+<g transform="translate(70 65)">
+  <g>
+    <animateTransform attributeName="transform" type="scale" dur="9.0s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.0333;0.0500;0.9167;0.9556;1" values="0;1.15;1;1;0;0" keySplines=".3 1.6 .5 1;.5 0 .5 1;0 0 1 1;.6 0 .9 .3;0 0 1 1"/>
+    <circle r="42" fill="url(#xg)"/>
+    <circle r="42" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+    <circle r="42" stroke="#9ece6a" stroke-width="3" opacity="0">
+      <animate attributeName="r" dur="9.0s" repeatCount="indefinite" keyTimes="0;0.0444;0.1556;1" values="42;42;72;72"/>
+      <animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" keyTimes="0;0.0444;0.1556;1" values="0;.9;0;0"/>
+    </circle>
+    <path d="M-15 -20h30v10a15 15 0 0 1-30 0z M-15 -16h-7a7 7 0 0 0 7 11 M15 -16h7a7 7 0 0 1-7 11 M-4 5h8v8h-8z M-12 13h24v6h-24z" fill="#fff" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M-15 -16h-7a7 7 0 0 0 7 11 M15 -16h7a7 7 0 0 1-7 11" stroke="#fff" stroke-width="3" fill="none"/>
+  </g>
+</g>
+</svg>
