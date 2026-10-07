@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" fill="none" xml:space="preserve" role="img" aria-label="01 - Whoami">
+<title>01 - Whoami</title>
+<defs><clipPath id="hc"><rect width="1200" height="84" rx="14"/></clipPath>
+<linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#7dcfff" stop-opacity="0"/><stop offset=".5" stop-color="#7dcfff"/><stop offset="1" stop-color="#7dcfff" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{white-space:pre}
+.sans{font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace}
+.b{font-weight:700}
+.blink{animation:blink 1.06s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.glint{animation:gl 6s ease-in-out infinite}@keyframes gl{from{transform:translateX(-260px)}to{transform:translateX(1260px)}}</style>
+<g clip-path="url(#hc)">
+<rect width="1200" height="84" fill="#0d1117"/>
+<rect width="5" height="84" fill="#7dcfff"/>
+<path d="M37 24.5h4.2v4.2h-4.2zM42 24.5h4.2v4.2h-4.2zM47 24.5h4.2v4.2h-4.2zM32 29.5h4.2v4.2h-4.2zM52 29.5h4.2v4.2h-4.2zM32 34.5h4.2v4.2h-4.2zM47 34.5h4.2v4.2h-4.2zM52 34.5h4.2v4.2h-4.2zM32 39.5h4.2v4.2h-4.2zM42 39.5h4.2v4.2h-4.2zM52 39.5h4.2v4.2h-4.2zM32 44.5h4.2v4.2h-4.2zM37 44.5h4.2v4.2h-4.2zM52 44.5h4.2v4.2h-4.2zM32 49.5h4.2v4.2h-4.2zM52 49.5h4.2v4.2h-4.2zM37 54.5h4.2v4.2h-4.2zM42 54.5h4.2v4.2h-4.2zM47 54.5h4.2v4.2h-4.2zM72 24.5h4.2v4.2h-4.2zM67 29.5h4.2v4.2h-4.2zM72 29.5h4.2v4.2h-4.2zM72 34.5h4.2v4.2h-4.2zM72 39.5h4.2v4.2h-4.2zM72 44.5h4.2v4.2h-4.2zM72 49.5h4.2v4.2h-4.2zM67 54.5h4.2v4.2h-4.2zM72 54.5h4.2v4.2h-4.2zM77 54.5h4.2v4.2h-4.2z" fill="#7dcfff"/>
+<path d="M109 24V60" stroke="#263049" stroke-width="2"/>
+<path d="M133 24.5h4.2v4.2h-4.2zM153 24.5h4.2v4.2h-4.2zM133 29.5h4.2v4.2h-4.2zM153 29.5h4.2v4.2h-4.2zM133 34.5h4.2v4.2h-4.2zM153 34.5h4.2v4.2h-4.2zM133 39.5h4.2v4.2h-4.2zM143 39.5h4.2v4.2h-4.2zM153 39.5h4.2v4.2h-4.2zM133 44.5h4.2v4.2h-4.2zM143 44.5h4.2v4.2h-4.2zM153 44.5h4.2v4.2h-4.2zM133 49.5h4.2v4.2h-4.2zM138 49.5h4.2v4.2h-4.2zM148 49.5h4.2v4.2h-4.2zM153 49.5h4.2v4.2h-4.2zM133 54.5h4.2v4.2h-4.2zM153 54.5h4.2v4.2h-4.2zM163 24.5h4.2v4.2h-4.2zM183 24.5h4.2v4.2h-4.2zM163 29.5h4.2v4.2h-4.2zM183 29.5h4.2v4.2h-4.2zM163 34.5h4.2v4.2h-4.2zM183 34.5h4.2v4.2h-4.2zM163 39.5h4.2v4.2h-4.2zM168 39.5h4.2v4.2h-4.2zM173 39.5h4.2v4.2h-4.2zM178 39.5h4.2v4.2h-4.2zM183 39.5h4.2v4.2h-4.2zM163 44.5h4.2v4.2h-4.2zM183 44.5h4.2v4.2h-4.2zM163 49.5h4.2v4.2h-4.2zM183 49.5h4.2v4.2h-4.2zM163 54.5h4.2v4.2h-4.2zM183 54.5h4.2v4.2h-4.2zM198 24.5h4.2v4.2h-4.2zM203 24.5h4.2v4.2h-4.2zM208 24.5h4.2v4.2h-4.2zM193 29.5h4.2v4.2h-4.2zM213 29.5h4.2v4.2h-4.2zM193 34.5h4.2v4.2h-4.2zM213 34.5h4.2v4.2h-4.2zM193 39.5h4.2v4.2h-4.2zM213 39.5h4.2v4.2h-4.2zM193 44.5h4.2v4.2h-4.2zM213 44.5h4.2v4.2h-4.2zM193 49.5h4.2v4.2h-4.2zM213 49.5h4.2v4.2h-4.2zM198 54.5h4.2v4.2h-4.2zM203 54.5h4.2v4.2h-4.2zM208 54.5h4.2v4.2h-4.2zM228 24.5h4.2v4.2h-4.2zM233 24.5h4.2v4.2h-4.2zM238 24.5h4.2v4.2h-4.2zM223 29.5h4.2v4.2h-4.2zM243 29.5h4.2v4.2h-4.2zM223 34.5h4.2v4.2h-4.2zM243 34.5h4.2v4.2h-4.2zM223 39.5h4.2v4.2h-4.2zM228 39.5h4.2v4.2h-4.2zM233 39.5h4.2v4.2h-4.2zM238 39.5h4.2v4.2h-4.2zM243 39.5h4.2v4.2h-4.2zM223 44.5h4.2v4.2h-4.2zM243 44.5h4.2v4.2h-4.2zM223 49.5h4.2v4.2h-4.2zM243 49.5h4.2v4.2h-4.2zM223 54.5h4.2v4.2h-4.2zM243 54.5h4.2v4.2h-4.2zM253 24.5h4.2v4.2h-4.2zM273 24.5h4.2v4.2h-4.2zM253 29.5h4.2v4.2h-4.2zM258 29.5h4.2v4.2h-4.2zM268 29.5h4.2v4.2h-4.2zM273 29.5h4.2v4.2h-4.2zM253 34.5h4.2v4.2h-4.2zM263 34.5h4.2v4.2h-4.2zM273 34.5h4.2v4.2h-4.2zM253 39.5h4.2v4.2h-4.2zM263 39.5h4.2v4.2h-4.2zM273 39.5h4.2v4.2h-4.2zM253 44.5h4.2v4.2h-4.2zM273 44.5h4.2v4.2h-4.2zM253 49.5h4.2v4.2h-4.2zM273 49.5h4.2v4.2h-4.2zM253 54.5h4.2v4.2h-4.2zM273 54.5h4.2v4.2h-4.2zM283 24.5h4.2v4.2h-4.2zM288 24.5h4.2v4.2h-4.2zM293 24.5h4.2v4.2h-4.2zM298 24.5h4.2v4.2h-4.2zM303 24.5h4.2v4.2h-4.2zM293 29.5h4.2v4.2h-4.2zM293 34.5h4.2v4.2h-4.2zM293 39.5h4.2v4.2h-4.2zM293 44.5h4.2v4.2h-4.2zM293 49.5h4.2v4.2h-4.2zM283 54.5h4.2v4.2h-4.2zM288 54.5h4.2v4.2h-4.2zM293 54.5h4.2v4.2h-4.2zM298 54.5h4.2v4.2h-4.2zM303 54.5h4.2v4.2h-4.2z" fill="#e6edf3"/>
+<rect class="blink" x="320" y="24.5" width="15" height="35" fill="#7dcfff"/>
+<text class="mono" x="1168" y="48" font-size="16" fill="#8b93b8" text-anchor="end" textLength="153.6" lengthAdjust="spacing">// boot sequence</text>
+<rect class="glint" y="82" width="240" height="2" fill="url(#gl)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="83" rx="13.5" stroke="#263049"/>
+</svg>

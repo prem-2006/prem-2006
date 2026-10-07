@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" fill="none" xml:space="preserve" role="img" aria-label="06 - Stats">
+<title>06 - Stats</title>
+<defs><clipPath id="hc"><rect width="1200" height="84" rx="14"/></clipPath>
+<linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#7aa2f7" stop-opacity="0"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{white-space:pre}
+.sans{font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace}
+.b{font-weight:700}
+.blink{animation:blink 1.06s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.glint{animation:gl 6s ease-in-out infinite}@keyframes gl{from{transform:translateX(-260px)}to{transform:translateX(1260px)}}</style>
+<g clip-path="url(#hc)">
+<rect width="1200" height="84" fill="#0d1117"/>
+<rect width="5" height="84" fill="#7aa2f7"/>
+<path d="M37 24.5h4.2v4.2h-4.2zM42 24.5h4.2v4.2h-4.2zM47 24.5h4.2v4.2h-4.2zM32 29.5h4.2v4.2h-4.2zM52 29.5h4.2v4.2h-4.2zM32 34.5h4.2v4.2h-4.2zM47 34.5h4.2v4.2h-4.2zM52 34.5h4.2v4.2h-4.2zM32 39.5h4.2v4.2h-4.2zM42 39.5h4.2v4.2h-4.2zM52 39.5h4.2v4.2h-4.2zM32 44.5h4.2v4.2h-4.2zM37 44.5h4.2v4.2h-4.2zM52 44.5h4.2v4.2h-4.2zM32 49.5h4.2v4.2h-4.2zM52 49.5h4.2v4.2h-4.2zM37 54.5h4.2v4.2h-4.2zM42 54.5h4.2v4.2h-4.2zM47 54.5h4.2v4.2h-4.2zM67 24.5h4.2v4.2h-4.2zM72 24.5h4.2v4.2h-4.2zM77 24.5h4.2v4.2h-4.2zM62 29.5h4.2v4.2h-4.2zM62 34.5h4.2v4.2h-4.2zM62 39.5h4.2v4.2h-4.2zM67 39.5h4.2v4.2h-4.2zM72 39.5h4.2v4.2h-4.2zM77 39.5h4.2v4.2h-4.2zM62 44.5h4.2v4.2h-4.2zM82 44.5h4.2v4.2h-4.2zM62 49.5h4.2v4.2h-4.2zM82 49.5h4.2v4.2h-4.2zM67 54.5h4.2v4.2h-4.2zM72 54.5h4.2v4.2h-4.2zM77 54.5h4.2v4.2h-4.2z" fill="#7aa2f7"/>
+<path d="M109 24V60" stroke="#263049" stroke-width="2"/>
+<path d="M138 24.5h4.2v4.2h-4.2zM143 24.5h4.2v4.2h-4.2zM148 24.5h4.2v4.2h-4.2zM153 24.5h4.2v4.2h-4.2zM133 29.5h4.2v4.2h-4.2zM133 34.5h4.2v4.2h-4.2zM138 39.5h4.2v4.2h-4.2zM143 39.5h4.2v4.2h-4.2zM148 39.5h4.2v4.2h-4.2zM153 44.5h4.2v4.2h-4.2zM153 49.5h4.2v4.2h-4.2zM133 54.5h4.2v4.2h-4.2zM138 54.5h4.2v4.2h-4.2zM143 54.5h4.2v4.2h-4.2zM148 54.5h4.2v4.2h-4.2zM163 24.5h4.2v4.2h-4.2zM168 24.5h4.2v4.2h-4.2zM173 24.5h4.2v4.2h-4.2zM178 24.5h4.2v4.2h-4.2zM183 24.5h4.2v4.2h-4.2zM173 29.5h4.2v4.2h-4.2zM173 34.5h4.2v4.2h-4.2zM173 39.5h4.2v4.2h-4.2zM173 44.5h4.2v4.2h-4.2zM173 49.5h4.2v4.2h-4.2zM173 54.5h4.2v4.2h-4.2zM198 24.5h4.2v4.2h-4.2zM203 24.5h4.2v4.2h-4.2zM208 24.5h4.2v4.2h-4.2zM193 29.5h4.2v4.2h-4.2zM213 29.5h4.2v4.2h-4.2zM193 34.5h4.2v4.2h-4.2zM213 34.5h4.2v4.2h-4.2zM193 39.5h4.2v4.2h-4.2zM198 39.5h4.2v4.2h-4.2zM203 39.5h4.2v4.2h-4.2zM208 39.5h4.2v4.2h-4.2zM213 39.5h4.2v4.2h-4.2zM193 44.5h4.2v4.2h-4.2zM213 44.5h4.2v4.2h-4.2zM193 49.5h4.2v4.2h-4.2zM213 49.5h4.2v4.2h-4.2zM193 54.5h4.2v4.2h-4.2zM213 54.5h4.2v4.2h-4.2zM223 24.5h4.2v4.2h-4.2zM228 24.5h4.2v4.2h-4.2zM233 24.5h4.2v4.2h-4.2zM238 24.5h4.2v4.2h-4.2zM243 24.5h4.2v4.2h-4.2zM233 29.5h4.2v4.2h-4.2zM233 34.5h4.2v4.2h-4.2zM233 39.5h4.2v4.2h-4.2zM233 44.5h4.2v4.2h-4.2zM233 49.5h4.2v4.2h-4.2zM233 54.5h4.2v4.2h-4.2zM258 24.5h4.2v4.2h-4.2zM263 24.5h4.2v4.2h-4.2zM268 24.5h4.2v4.2h-4.2zM273 24.5h4.2v4.2h-4.2zM253 29.5h4.2v4.2h-4.2zM253 34.5h4.2v4.2h-4.2zM258 39.5h4.2v4.2h-4.2zM263 39.5h4.2v4.2h-4.2zM268 39.5h4.2v4.2h-4.2zM273 44.5h4.2v4.2h-4.2zM273 49.5h4.2v4.2h-4.2zM253 54.5h4.2v4.2h-4.2zM258 54.5h4.2v4.2h-4.2zM263 54.5h4.2v4.2h-4.2zM268 54.5h4.2v4.2h-4.2z" fill="#e6edf3"/>
+<rect class="blink" x="290" y="24.5" width="15" height="35" fill="#7aa2f7"/>
+<text class="mono" x="1168" y="48" font-size="16" fill="#8b93b8" text-anchor="end" textLength="182.4" lengthAdjust="spacing">// live from github</text>
+<rect class="glint" y="82" width="240" height="2" fill="url(#gl)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="83" rx="13.5" stroke="#263049"/>
+</svg>
