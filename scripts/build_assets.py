@@ -355,155 +355,67 @@ def b64(path):
 
 
 def build_hero():
-    W, H = 1200, 600
-    rnd = random.Random(7)
+    W, H = 1200, 520
     img = b64(os.path.join(ROOT, "github.jpeg"))
-
-    px, nx, ny = 11, 64, 384
-    letters, nw = ptext(NAME, nx, ny, px)
+    nx = 64
 
     defs = f"""
-<clipPath id="card"><rect width="{W}" height="{H}" rx="24"/></clipPath>
-<linearGradient id="fadeB" x1="0" y1="0" x2="0" y2="1">
-  <stop offset=".28" stop-color="{C['ink']}" stop-opacity="0"/>
-  <stop offset=".70" stop-color="{C['ink']}" stop-opacity=".84"/>
-  <stop offset="1" stop-color="{C['ink']}" stop-opacity=".97"/></linearGradient>
+<clipPath id="card"><rect width="{W}" height="{H}" rx="20"/></clipPath>
 <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="{C['ink']}" stop-opacity=".8"/>
-  <stop offset=".62" stop-color="{C['ink']}" stop-opacity="0"/></linearGradient>
-<radialGradient id="vig" cx=".5" cy=".42" r=".78">
-  <stop offset=".55" stop-color="#000" stop-opacity="0"/>
-  <stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient>
-<pattern id="sl" width="4" height="4" patternUnits="userSpaceOnUse">
-  <rect width="4" height="1.2" fill="#000" opacity=".3"/></pattern>
-<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="{C['cyan']}" stop-opacity="0"/>
-  <stop offset=".5" stop-color="{C['cyan']}" stop-opacity=".10"/>
-  <stop offset="1" stop-color="{C['cyan']}" stop-opacity="0"/></linearGradient>
-<radialGradient id="fly"><stop offset="0" stop-color="#fff4d6"/>
-  <stop offset=".35" stop-color="#ffc98a" stop-opacity=".8"/>
-  <stop offset="1" stop-color="#ff9e64" stop-opacity="0"/></radialGradient>
-<linearGradient id="ng" gradientUnits="userSpaceOnUse" x1="{nx}" y1="0" x2="{n(nx + nw)}" y2="0" spreadMethod="repeat">
-  <stop offset="0" stop-color="{C['cyan']}"/><stop offset=".33" stop-color="{C['violet']}"/>
-  <stop offset=".66" stop-color="{C['orange']}"/><stop offset="1" stop-color="{C['cyan']}"/>
-  <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="{n(nw)} 0" dur="7s" repeatCount="indefinite"/>
+  <stop offset="0" stop-color="{C['ink']}" stop-opacity=".92"/>
+  <stop offset=".42" stop-color="{C['ink']}" stop-opacity=".62"/>
+  <stop offset=".72" stop-color="{C['ink']}" stop-opacity="0"/></linearGradient>
+<linearGradient id="fadeB" x1="0" y1="0" x2="0" y2="1">
+  <stop offset=".45" stop-color="{C['ink']}" stop-opacity="0"/>
+  <stop offset="1" stop-color="{C['ink']}" stop-opacity=".9"/></linearGradient>
+<linearGradient id="ng" gradientUnits="userSpaceOnUse" x1="{nx}" y1="0" x2="{nx + 600}" y2="0" spreadMethod="repeat">
+  <stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="{C['cyan']}"/><stop offset="1" stop-color="#ffffff"/>
+  <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="9s" repeatCount="indefinite"/>
 </linearGradient>
-<filter id="glow" x="-10%" y="-40%" width="120%" height="180%">
-  <feGaussianBlur stdDeviation="7" result="b"/>
-  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="{C['cyan']}"/><stop offset="1" stop-color="{C['violet']}"/></linearGradient>
 """
     style = css("""
-.kb{transform-origin:640px 300px;animation:kb 26s ease-in-out infinite alternate}
-@keyframes kb{from{transform:scale(1.03)}to{transform:scale(1.13) translate(-18px,8px)}}
-.scan{animation:scan 7s linear infinite}
-@keyframes scan{from{transform:translateY(0)}to{transform:translateY(780px)}}
-.ff{animation-name:ff;animation-timing-function:linear;animation-iteration-count:infinite;transform-box:fill-box;transform-origin:center}
-@keyframes ff{0%{transform:translate(0,0);opacity:0}15%{opacity:.95}50%{transform:translate(16px,-80px)}85%{opacity:.7}100%{transform:translate(-8px,-160px);opacity:0}}
-.rec{animation:blink 1.6s steps(1) infinite}
-.drop{animation:drop .8s cubic-bezier(.2,1.5,.35,1) both}
-@keyframes drop{from{transform:translateY(-70px);opacity:0}to{transform:none;opacity:1}}
-.gA,.gB{animation:gA 4.8s steps(1) infinite}
-.gB{animation-name:gB}
-@keyframes gA{0%,84%{transform:translate(0,0);opacity:0}85%{transform:translate(-9px,3px);opacity:.9}88%{transform:translate(7px,-2px);opacity:.9}91%{transform:translate(-3px,1px);opacity:.6}94%,100%{opacity:0}}
-@keyframes gB{0%,84%{transform:translate(0,0);opacity:0}85%{transform:translate(9px,-3px);opacity:.9}88%{transform:translate(-6px,2px);opacity:.9}91%{transform:translate(3px,0);opacity:.6}94%,100%{opacity:0}}
-.jit{animation:jit 4.8s steps(1) infinite}
-@keyframes jit{0%,84%,94%,100%{transform:none}86%{transform:translateX(5px) skewX(-6deg)}89%{transform:translateX(-4px)}}
-.ripple{animation:ripple 1.8s ease-out infinite;transform-box:fill-box;transform-origin:center}
-@keyframes ripple{from{transform:scale(1);opacity:.85}to{transform:scale(3.4);opacity:0}}
-.sticker{animation:wob 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-@keyframes wob{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(-3deg) translateY(-4px)}}
+.up{animation:up .7s ease-out both}
+@keyframes up{from{transform:translateY(14px);opacity:0}to{transform:none;opacity:1}}
+.ripple{animation:ripple 2.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ripple{from{transform:scale(1);opacity:.7}to{transform:scale(2.8);opacity:0}}
 """)
 
-    body = [f'<g clip-path="url(#card)">',
+    def up(delay, content):
+        return f'<g class="up" style="animation-delay:{n(delay)}s">{content}</g>'
+
+    body = ['<g clip-path="url(#card)">',
             f'<rect width="{W}" height="{H}" fill="{C["ink"]}"/>',
-            f'<image class="kb" href="data:image/jpeg;base64,{img}" x="0" y="-48" width="{W}" height="675" preserveAspectRatio="xMidYMid slice"/>',
-            f'<rect width="{W}" height="{H}" fill="#1a1b40" opacity=".16"/>',
+            f'<image href="data:image/jpeg;base64,{img}" x="0" y="-70" width="{W}" height="675" preserveAspectRatio="xMidYMid slice"/>',
             f'<rect width="{W}" height="{H}" fill="url(#fadeL)"/>',
-            f'<rect width="{W}" height="{H}" fill="url(#fadeB)"/>',
-            f'<rect width="{W}" height="{H}" fill="url(#vig)"/>',
-            f'<rect width="{W}" height="{H}" fill="url(#sl)" opacity=".6"/>',
-            f'<rect class="scan" y="-170" width="{W}" height="170" fill="url(#scan)"/>']
+            f'<rect width="{W}" height="{H}" fill="url(#fadeB)"/>']
 
-    # fireflies drifting up through the window light
-    for _ in range(18):
-        x, y = rnd.uniform(470, 1180), rnd.uniform(90, 590)
-        r = rnd.uniform(3.5, 8)
-        dur, delay = rnd.uniform(7, 13), -rnd.uniform(0, 13)
-        body.append(f'<circle class="ff" cx="{n(x)}" cy="{n(y)}" r="{n(r)}" fill="url(#fly)" '
-                    f'style="animation-duration:{n(dur)}s;animation-delay:{n(delay)}s"/>')
+    # availability pill
+    label = "OPEN TO COLLABORATE"
+    pw = len(label) * 13 * CW + 48
+    body.append(up(0.1, (
+        f'<rect x="{nx}" y="196" width="{n(pw)}" height="30" rx="15" fill="{C["ink"]}" fill-opacity=".7" stroke="{C["green"]}" stroke-opacity=".55"/>'
+        f'<circle class="ripple" cx="{nx + 19}" cy="211" r="4.5" fill="{C["green"]}"/>'
+        f'<circle cx="{nx + 19}" cy="211" r="4.5" fill="{C["green"]}"/>'
+        + mtext(nx + 33, 216, label, 13, C["green"], ' class="mono b"'))))
 
-    # HUD frame
-    body.append(f'<path d="M28 72V28H72M1128 28H1172V72M1172 528V572H1128M72 572H28V528" '
-                f'stroke="{C["cyan"]}" stroke-opacity=".6" stroke-width="2"/>')
-    body.append(f'<circle class="rec" cx="56" cy="52" r="5.5" fill="{C["red"]}"/>')
-    body.append(mtext(70, 57, "LIVE", 14, C["red"], ' class="mono b"'))
-    body.append(mtext(116, 57, "PREM_SINGH.EXE  //  SESSION 2026", 14, C["fg2"], ' opacity=".75"'))
+    # name, roles
+    body.append(up(0.25, f'<text class="sans b" x="{nx}" y="312" font-size="82" fill="url(#ng)">{esc(NAME.title())}</text>'))
+    body.append(up(0.4, f'<rect x="{nx + 2}" y="332" width="96" height="4" rx="2" fill="url(#bar)"/>'))
+    body.append(up(0.5, f'<text class="sans" x="{nx}" y="378" font-size="28" fill="{C["fg"]}">{esc("  |  ".join(ROLES[:2]))}</text>'))
 
-    label = "OPEN TO COLLABS"
-    cwid = len(label) * 14 * CW + 52
-    cx0 = 1150 - cwid
-    body.append(f'<rect x="{n(cx0)}" y="36" width="{n(cwid)}" height="32" rx="16" fill="{C["ink"]}" '
-                f'fill-opacity=".72" stroke="{C["green"]}" stroke-opacity=".55"/>')
-    body.append(f'<circle class="ripple" cx="{n(cx0 + 20)}" cy="52" r="5" fill="{C["green"]}"/>')
-    body.append(f'<circle cx="{n(cx0 + 20)}" cy="52" r="5" fill="{C["green"]}"/>')
-    body.append(mtext(cx0 + 34, 57, label, 14, C["green"], ' class="mono b"'))
+    # focus chips
+    cx = nx
+    for i, (text, col) in enumerate([("Python", C["cyan"]), ("React", C["teal"]), ("Next.js", C["fg2"]),
+                                     ("PyTorch", C["orange"]), ("OpenCV", C["green"])]):
+        c, w = chip(cx, 410, text, col, size=14, pad=12, h=28)
+        body.append(up(0.65 + i * 0.07, c))
+        cx += w + 10
 
-    body.append(mtext(1150, 560, "BUGS: 0*   *probably", 13, C["fg2"], ' opacity=".55"', anchor="end"))
-
-    # "> hello world, I'm" - typed once
-    hello = "hello world, I'm"
-    hs, hcw = 22, 22 * CW
-    hx = nx + 2 * hcw
-    body.append(f'<clipPath id="hc"><rect x="{n(hx)}" y="{352 - hs}" height="{hs * 1.5}" width="{n(len(hello) * hcw + 4)}">'
-                f'{discrete("width", [(0, 0)] + typing(0.3, len(hello), hcw, 0.05), 0.35 + len(hello) * 0.05, repeat=False)}'
-                f'</rect></clipPath>')
-    body.append(mtext(nx, 352, ">", hs, C["orange"], ' class="mono b"'))
-    body.append(f'<g clip-path="url(#hc)">{mtext(hx, 352, hello, hs, C["teal"])}</g>')
-
-    # glitchy pixel name
-    allpath = "".join(d for _, d in letters)
-    body.append(f'<g class="gA"><path d="{allpath}" fill="{C["cyan"]}" opacity=".9"/></g>')
-    body.append(f'<g class="gB"><path d="{allpath}" fill="#ff3d81" opacity=".9"/></g>')
-    body.append('<g class="jit" filter="url(#glow)">')
-    for i, (ch, d) in enumerate(letters):
-        if d:
-            body.append(f'<g class="drop" style="animation-delay:{n(1.0 + i * 0.07)}s"><path d="{d}" fill="url(#ng)"/></g>')
-    body.append("</g>")
-
-    # rotating roles, typed + deleted on a loop
-    rs, rcw, ry = 28, 28 * CW, 518
-    rx = nx + 2 * rcw
-    slot, dur = 4.0, 4.0 * len(ROLES)
-    body.append(mtext(nx, ry, "$", rs, C["orange"], ' class="mono b"'))
-    cursor = [(0, n(rx))]
-    for i, role in enumerate(ROLES):
-        s = i * slot
-        ev = [(0, 0)] + typing(s + 0.15, len(role), rcw, 0.055)
-        hold = s + 0.15 + len(role) * 0.055 + 1.7
-        ev += [(hold + k * 0.022, n((len(role) - k) * rcw)) for k in range(len(role) + 1)]
-        cursor += [(t, n(rx + float(w))) for t, w in ev if t > 0]
-        full = n(len(role) * rcw + 4) if i == 0 else 0
-        body.append(f'<clipPath id="r{i}"><rect x="{n(rx)}" y="{ry - rs}" height="{rs * 1.5}" width="{full}">'
-                    f'{discrete("width", ev, dur)}</rect></clipPath>')
-        body.append(f'<g clip-path="url(#r{i})">{mtext(rx, ry, role, rs, C["cyan"], " class=\"mono b\"")}</g>')
-    body.append(f'<g class="blink"><rect x="{n(rx + len(ROLES[0]) * rcw)}" y="{ry - rs * 0.82}" width="{n(rcw * 0.6)}" '
-                f'height="{rs * 1.0}" fill="{C["orange"]}">{discrete("x", cursor, dur)}</rect></g>')
-
-    # motto sticker
-    spx = 3
-    sw = pwidth(MOTTO, spx)
-    pw, ph = sw + 36, 7 * spx + 30
-    sp, _ = ppath(MOTTO, -sw / 2, -7 * spx / 2, spx, gap=0)
-    body.append(f'<g transform="translate(1000 462)"><g class="sticker">'
-                f'<rect x="{n(-pw / 2 + 5)}" y="{n(-ph / 2 + 6)}" width="{n(pw)}" height="{n(ph)}" rx="8" fill="#000" opacity=".45"/>'
-                f'<rect x="{n(-pw / 2)}" y="{n(-ph / 2)}" width="{n(pw)}" height="{n(ph)}" rx="8" fill="{C["yellow"]}"/>'
-                f'<rect x="{n(-pw / 2 + 4)}" y="{n(-ph / 2 + 4)}" width="{n(pw - 8)}" height="{n(ph - 8)}" rx="5" stroke="#1a1b26" stroke-opacity=".35" stroke-dasharray="4 4"/>'
-                f'<path d="{sp}" fill="#1a1b26"/>'
-                f'<rect x="-34" y="{n(-ph / 2 - 10)}" width="68" height="18" fill="#fff" opacity=".35" transform="rotate(4)"/>'
-                f'</g></g>')
+    body.append(up(1.1, f'<text class="sans" x="{W - 44}" y="{H - 30}" font-size="16" font-style="italic" fill="{C["fg"]}" opacity=".8" text-anchor="end">{esc(MOTTO.title())}</text>'))
 
     body.append("</g>")
-    body.append(f'<rect x=".75" y=".75" width="{W - 1.5}" height="{H - 1.5}" rx="23.5" stroke="{C["cyan"]}" stroke-opacity=".25" stroke-width="1.5"/>')
+    body.append(f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="19.5" stroke="{C["line"]}"/>')
     save("hero.svg", svg(W, H, f"{NAME.title()} - " + " | ".join(ROLES[:2]), defs, style, "\n".join(body)))
 
 
