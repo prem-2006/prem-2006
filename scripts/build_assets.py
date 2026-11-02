@@ -416,7 +416,7 @@ def build_hero():
 
     body.append("</g>")
     body.append(f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="19.5" stroke="{C["line"]}"/>')
-    save("hero.svg", svg(W, H, f"{NAME.title()} - " + " | ".join(ROLES[:2]), defs, style, "\n".join(body)))
+    save("banner.svg", svg(W, H, f"{NAME.title()} - " + " | ".join(ROLES[:2]), defs, style, "\n".join(body)))
 
 
 # ════════════════════════════════════════════════════════════════════════════

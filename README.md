@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Prem Singh — Full Stack Developer and AI/ML Engineer. Jalwa Hai Hamara." />
+  <img src="./assets/banner.svg" width="100%" alt="Prem Singh — Full Stack Developer and AI/ML Engineer. Jalwa Hai Hamara." />
 </p>
 
 <p align="center">
